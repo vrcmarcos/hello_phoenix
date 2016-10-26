@@ -2,6 +2,12 @@
 
 Projeto para aprendizado de Elixir/Phoenix
 
+##26/10/2016
+
+1. Começamos os estudos de GenServer como solução para executar rotinas
+1. Falamos sobre testes unitários e implementamos alguns testes
+1. Vimos o operador `|>` e entendemos como funciona
+1. Vimos alguns métodos do módulo `List` e `Map`
 
 ##19/10/2016
 
